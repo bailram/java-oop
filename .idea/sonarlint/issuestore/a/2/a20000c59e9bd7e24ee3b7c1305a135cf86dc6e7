@@ -1,0 +1,17 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(€†…E
+;
+java:S1181"%Catch Exception instead of Throwable.(ëß‹™
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊœáÒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çÖžÎ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(¶ÌÙ]8å›ã±ú/
+;
+java:S1181."%Catch Exception instead of Throwable.(ëß‹™
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8æ›ã±ú/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ÊœáÒ8ç›ã±ú/
+M
+java:S1128"7Remove this unused import 'javax.imageio.IIOException'.(´ÂÏ’
